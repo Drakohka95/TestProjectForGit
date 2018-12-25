@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testprojectforgit.iml" filepath="$PROJECT_DIR$/.idea/modules/testprojectforgit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root--testprojectforgit-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root--testprojectforgit-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testProjectForGit.iml" filepath="$PROJECT_DIR$/.idea/modules/testProjectForGit.iml" />
     </modules>
   </component>
 </project>
